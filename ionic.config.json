@@ -1,0 +1,7 @@
+{
+  "name": "renan-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
